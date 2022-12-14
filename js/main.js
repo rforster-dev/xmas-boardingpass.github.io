@@ -4,9 +4,8 @@ var arrLang = {
   en: {
     quizResponse: "🎅 Merry Christmas! 🎅",
     quizTitle:
-      "So mum, lets find out where you are going to be whisked away to... 🤔",
-    quizDesc:
-      "Answer the questions, and your boarding pass will be revealed...",
+      "Mum, let's find out where you are going to be whisked away to...🤔",
+    quizDesc: "Answer the questions and your boarding pass will be revealed...",
     q1Title: "Do I deserve a holiday? 🏖️",
     q1Option1: "Fuck yeah I do!",
     q1Option2: "Nah (but secretly yes)",
@@ -18,11 +17,11 @@ var arrLang = {
     q3Option1: "Yeah, that sounds fun!",
     q3Option2: "Nah, I don't like holidays",
     q4Title:
-      "How do you feel about site seeing where Captain Sandy has sailed? ⛵",
+      "How do you feel about sightseeing where Captain Sandy has sailed? ⛵",
     q4Option1: "Bloody yes mate, sign me up! She's a cool cat",
     q4Option2: "Who's Captain Sandy? I don't own a television",
     q5Title:
-      "OK final question... you're absolutely sure i'm the favourite? 😎",
+      "OK final question... you're absolutely sure I'm the favourite? 😎",
     q5Option1: "Yes Russ, for the 100th time",
     q5Option2: "<No comment>",
   },
